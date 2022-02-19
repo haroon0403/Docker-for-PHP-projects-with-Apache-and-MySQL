@@ -42,8 +42,11 @@ cd ./php/src
 
 set database in PHPMyAdmin service
 
+![image](https://user-images.githubusercontent.com/32263261/154813829-47d9491c-c73e-4d6b-9511-bf75eb5e2bc6.png)
 
 
+
+![image](https://user-images.githubusercontent.com/32263261/154813763-7e7c221c-d71b-464e-9741-9e623771ab0c.png)
 
 
 
